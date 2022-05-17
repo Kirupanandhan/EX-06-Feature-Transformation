@@ -131,3 +131,5 @@ df
 ![output](./19.png)
 ![output](./20.png)
 ![output](./21.png)
+# RESULT: 
+The various feature transformation techniques has been performed on the given datasets and the data are saved to a file.
